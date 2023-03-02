@@ -1,1 +1,1 @@
-# BEM-SAS
+# BEM-SCSS
